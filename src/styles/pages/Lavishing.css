@@ -1,0 +1,25 @@
+.agree-button {
+    display: block;
+    font-size: larger;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    border: none;
+    background-color: rgb(71, 255, 47);
+    width: 50%;
+    border-radius: 17%;
+}
+
+.disagree-button {
+    display: block;
+    font-size: larger;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    border: none;
+    background-color: rgb(255, 47, 47);
+    width: 50%;
+    border-radius: 17%;
+}
